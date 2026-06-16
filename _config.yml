@@ -1,15 +1,13 @@
 title: Revista Tempovani
 tagline: Dono do próprio nariz
 description: Revista Tempovani — artigos, ensaios e reportagens
-url: "https://tempxrin.github.io"
-baseurl: "/revista-tempovani"
+url: ""
+baseurl: ""
 permalink: /artigos/:title/
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-sass:
-  style: compressed
 defaults:
   - scope:
       path: ""
