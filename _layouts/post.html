@@ -2,13 +2,7 @@
 layout: default
 ---
 
-{% assign art_images = "basquiat-crown.svg|basquiat-face.svg|basquiat-skull.svg" | split: "|" %}
-{% if page.image %}
-  {% assign img_path = page.image %}
-{% else %}
-  {% assign img_idx = page.date | date: "%j" | modulo: 3 %}
-  {% assign img_path = '/assets/img/' | append: art_images[img_idx] %}
-{% endif %}
+{% assign img_path = page.image %}
 {% assign words = content | number_of_words %}
 {% assign read_time = words | divided_by: 200 | plus: 1 %}
 {% assign excerpt_text = content | strip_html | truncatewords: 30 %}
@@ -24,9 +18,11 @@ layout: default
     </div>
   </header>
 
+  {% if img_path %}
   <div class="post-image-hero">
     <img src="{{ img_path | relative_url }}" alt="" class="hero-img">
   </div>
+  {% endif %}
 
   <div class="post-body">
     {{ content }}
