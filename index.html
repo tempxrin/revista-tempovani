@@ -29,7 +29,7 @@ title: Início
       {% assign first_post = cat_posts | first %}
       <div class="article-row reveal">
         <div class="article-row-image">
-          <img src="{{ first_post.image | relative_url }}" alt="">
+          <a href="{{ first_post.url | relative_url }}"><img src="{{ first_post.image | relative_url }}" alt=""></a>
         </div>
         <div class="article-row-content">
           <span class="section-tag">{{ cat_label }}</span>
@@ -45,7 +45,7 @@ title: Início
         <div class="category-grid" style="margin-top:32px">
           <div class="category-featured reveal">
             {% assign second = remaining | first %}
-            <img src="{{ second.image | relative_url }}" alt="">
+            <a href="{{ second.url | relative_url }}"><img src="{{ second.image | relative_url }}" alt=""></a>
             <div class="category-featured-content">
               <span class="section-tag">{{ cat_label }}</span>
               <h3><a href="{{ second.url | relative_url }}">{{ second.title }}</a></h3>
@@ -56,7 +56,7 @@ title: Início
             {% assign more = remaining | shift %}
             {% for p in more limit:4 %}
               <div class="category-list-item reveal">
-                <img src="{{ p.image | relative_url }}" alt="">
+                <a href="{{ p.url | relative_url }}"><img src="{{ p.image | relative_url }}" alt=""></a>
                 <div>
                   <h4><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h4>
                   <p class="meta">{{ p.date | date: "%d %b %Y" }}</p>

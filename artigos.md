@@ -13,7 +13,7 @@ permalink: /artigos/
   {% for post in site.posts %}
     <article class="archive-item">
       <div style="display:flex;gap:24px;align-items:start">
-        <img src="{{ post.image | relative_url }}" alt="" style="width:140px;height:100px;object-fit:cover;flex-shrink:0">
+        <a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt="" style="width:140px;height:100px;object-fit:cover;flex-shrink:0"></a>
         <div>
           <div class="archive-meta">
             <time>{{ post.date | date: "%d/%m/%Y" }}</time>
