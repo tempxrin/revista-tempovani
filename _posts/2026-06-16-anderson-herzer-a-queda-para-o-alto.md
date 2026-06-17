@@ -33,7 +33,7 @@ Primeiro autor publicado transgênero do Brasil tampouco é lembrado na cidade d
 >
 > — Anderson Herzer, "A Gota de Sangue"
 
-É com o poema supracitado, "A Gota de Sangue", que Anderson inicia sua autobiografia *A Queda Para o Alto*, publicada em 1982 pela Editora Vozes. Poucos meses antes do lançamento de seu primeiro livro, Anderson morreu por suicídio, atirando-se de um viaduto localizado no centro de São Paulo, no dia 10 de agosto de 1982. Seus traumas, adquiridos ao longo dos anos de abandono, abuso, violência, marginalização e transfobia, levaram-no a tirar a própria vida.
+É com a "A Gota de Sangue", que Anderson inicia sua autobiografia *A Queda Para o Alto*, publicada em 1982 pela Editora Vozes. Poucos meses antes do lançamento de seu primeiro livro, Anderson morreu por suicídio, atirando-se de um viaduto localizado no centro de São Paulo, no dia 10 de agosto de 1982. Seus traumas, adquiridos ao longo dos anos de abandono, abuso, violência, marginalização e transfobia, levaram-no a tirar a própria vida.
 
 <!--more-->
 
@@ -49,11 +49,11 @@ Nos meses subsequentes, frequentou terapeutas e psiquiatras, foi medicado e cheg
 
 ## Apenas mais um marginal entre muitos
 
-Anderson se absteve de escrever partes essenciais de sua trajetória seguindo a ordem cronológica dos ocorridos, preocupando-se para que não fosse repletamente martirizado pelo leitor desde o início. Herzer faz questão de contar, conforme já citado nesse texto, suas fugas, seus problemas com álcool e drogas, o convívio com homens mais velhos em bares, as brigas, as noites nas quais saía e retornava apenas na manhã seguinte, entre outros acontecimentos. O leitor, em meio a tudo isso, pode chegar a dar razão aos pais em relação aos internamentos, que talvez, até o momento, possam parecer atos de benevolência de seus pais adotivos, visando uma vida mais segura para Anderson.
+Anderson se absteve de escrever partes essenciais de sua trajetória seguindo a ordem cronológica dos ocorridos, preocupando-se para que não fosse completamente martirizado pelo leitor desde o início. Herzer faz questão de contar suas fugas, seus problemas com álcool e drogas, o convívio com homens mais velhos em bares, as brigas, as noites nas quais saía e retornava apenas na manhã seguinte, entre outros acontecimentos. O leitor, em meio a tudo isso, pode chegar a dar razão aos pais em relação aos internamentos, que, até esse ponto da leitura, podem parecer atos de benevolência de seus pais adotivos, visando uma vida mais segura para Anderson.
 
 Anderson, antes de contar os horrores que lhe ocorreram durante os 3 anos de Febem, relata o episódio de tentativa de estupro sofrida por parte de seu pai adotivo. Após reagir, afastando-o e fugindo, foi alcançado e golpeado no braço, ocasionando uma fratura. Ao contar para sua mãe adotiva, sofreu diversas ameaças do pai.
 
-A ida para a Febem não foi apenas mérito de seus atos desencadeados pelo trauma da tentativa de abuso sexual. Tempos antes, ao revelar para seu pai que sua mãe estava o traindo, foi culpado pelas brigas geradas a partir disso, e sua mãe adotiva insinuou que Anderson pagaria caro pelo que fez. Infelizmente ela estava certa, e ele realmente pagou. Pagou três anos da sua vida em uma instituição que o colocou como alvo de agressões verbais e físicas por parte dos dirigentes.
+A ida para a Febem não foi apenas consequência de seus atos desencadeados pelo trauma da tentativa de abuso sexual. Tempos antes, ao revelar para seu pai que sua mãe estava o traindo, foi culpado pelas brigas geradas a partir disso, e sua mãe adotiva insinuou que Anderson pagaria caro pelo que fez. Infelizmente ela estava certa, e ele realmente pagou. Pagou três anos da sua vida em uma instituição que o colocou como alvo de agressões verbais e físicas por parte dos dirigentes. 
 
 Anderson Herzer denuncia o que sofrera durante esse período com uma força descomunal, sendo o primeiro relato de um ex-egresso da Febem. Além de suas colocações em relação ao que passara, também escreveu diversos poemas durante os anos dentro da instituição, percorrendo temas como morte, luto, liberdade e vida.
 
